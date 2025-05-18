@@ -9,6 +9,7 @@ This Jupyter Notebook explores and compares several token selection strategies f
 - N-gram penalty decoding
 - Beam search
 - Sampling with temperature and top-k filtering
+  
 Each method is implemented and demonstrated with example prompts. In addition to generating text, the notebook integrates the CodeCarbon library to monitor and log the energy consumption and estimated CO₂ emissions for each generation run. Emissions data is saved and displayed for further analysis, providing insight into the environmental footprint of different decoding strategies.
 
 # Tools
